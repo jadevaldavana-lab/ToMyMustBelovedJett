@@ -924,8 +924,6 @@
             },
             autoplay: true,
         });
-
-
     </script>
 </body>
 
